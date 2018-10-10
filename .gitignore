@@ -1,0 +1,16 @@
+/.settings
+/bin/
+/target*
+goosegame.jar
+kata_GooseGame.md
+
+# IDE specific #
+###################
+*.iml
+.idea/
+/.idea/*
+/.classpath
+.classpath
+/.settings/
+/.project
+.project
